@@ -1,0 +1,21 @@
+/* h1{
+    font-size: larger;
+    color: rgb(255, 72, 0);
+} */
+/* p{
+    color: deeppink;
+}
+#me{
+    color: rgb(15, 252, 23);
+}
+.yes{
+    color: rgb(13, 11, 11);
+} */
+#me{
+    background-color: antiquewhite;
+    text-align: center;
+}
+h1:hover
+{
+    color: red;
+}
