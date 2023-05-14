@@ -18,6 +18,9 @@
     font-weight: bold;
     font-size: 20px;
 }
+.navbar .fa-solid{
+    margin-right: 10px;
+}
 .navbar button {
     float: right;
     padding: 8px;
