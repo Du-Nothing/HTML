@@ -234,13 +234,16 @@ body{
    } */
    
    .card{
+        
         position: relative;
         width: 20%;
         display: inline-block;
         box-shadow: 2px 2px 20px black;
         border-radius: 5px; 
-        margin: 2%;
+        margin: 5%;
         background-color: aliceblue;
+        justify-content: center;
+        align-items: center;
        }
 
     .card:hover{
