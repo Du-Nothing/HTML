@@ -167,6 +167,7 @@ body{
     animation:slider 11s infinite linear;
     /* display: grid;
     place-items: center; */
+    
 }
 @keyframes slider{
     0%{ background-image: url(Images/iron\ man\ eye.webp);}
@@ -183,7 +184,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 100px;
+    /* margin-top: 100px; */
 }
 .search-bar{
     width: 100%;
@@ -331,7 +332,7 @@ body{
   ul{
       list-style: none;
   }
-  .footer{
+  footer{
     /* background-color: #082b34; */
       padding-top: 70px;
       background-color: rgba(0, 0, 0, 0.527);
